@@ -1,0 +1,10 @@
+C:\Users\samir.dahal\Desktop\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\samir.dahal\Desktop\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.deps.json
+C:\Users\samir.dahal\Desktop\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.dll
+C:\Users\samir.dahal\Desktop\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.pdb
+C:\Users\samir.dahal\Desktop\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.csprojAssemblyReference.cache
+C:\Users\samir.dahal\Desktop\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.AssemblyInfoInputs.cache
+C:\Users\samir.dahal\Desktop\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.AssemblyInfo.cs
+C:\Users\samir.dahal\Desktop\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.csproj.CoreCompileInputs.cache
+C:\Users\samir.dahal\Desktop\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.dll
+C:\Users\samir.dahal\Desktop\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.pdb
